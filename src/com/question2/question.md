@@ -9,14 +9,14 @@ You can help Xayah determine if she can win the game by completing all the missi
 Example:  
 Input: total = 2, conditions = [[1,0]]  
 Output: victory  
-Explanation:
+Explanation:  
 According to the input, there are 2 total missions.  
-To take the mission 1, Xayah should have completed mission 0.
+To take the mission 1, Xayah should have completed mission 0.  
 She can win.
 
 Input: total = 2, conditions = [[1,0], [0,1]]  
-Output: defeat
-Explanation:
+Output: defeat  
+Explanation:  
 According to the input, there are 2 total missions.  
 To take the mission 1, Xayah should have completed mission 0.  
 To take the mission 0, Xayah should have completed mission 1.  

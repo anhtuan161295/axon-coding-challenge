@@ -9,7 +9,7 @@ Example:
 Input: towers = [10, 5, 2, 3, 11, 7]  
 Output: [0, 4]
 
-Input: towers = [3, 7, 2, 3, 7, 11, 15, 8, 11, 9]
+Input: towers = [3, 7, 2, 3, 7, 11, 15, 8, 11, 9]  
 Output: [1, 6, 8]
 
 
