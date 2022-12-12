@@ -7,6 +7,7 @@ import java.util.Set;
 
 public class Solution {
 
+    // https://leetcode.com/problems/course-schedule/solutions/58550/clean-java-solutions-bfs-and-dfs/
     public static String solution(long total, long[][] conditions) {
         // Write your solution here
         if (conditions.length == 1) return "victory";
